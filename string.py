@@ -13,4 +13,6 @@ print(len(text2))
 print(text.upper())
 print(text2.lower())
 
-# String concatination
+# String concatination - combining strings
+print(text+text2)
+print(text+" "+text2)
